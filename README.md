@@ -3,6 +3,7 @@
 ## Overview
 This web application utilizes the power of machine learning to predict the likelihood of an individual having diabetes based on certain health indicators. The model is trained on the well-known Pima Indians Diabetes dataset, and employs Support Vector Machine (SVM) classification, implemented using the SVC (Support Vector Classification) algorithm from scikit-learn. 
 
+[demo](https://github.com/MeetShah9/Diabetes_predictor/assets/148629466/5e8f0776-d848-4faa-8933-3a67f295d6ef)
 ## Technologies Used
 - **Streamlit:** The user interface is built using Streamlit, a popular Python library for creating interactive web applications.
 - **NumPy:** For efficient array manipulation, NumPy is utilized.
