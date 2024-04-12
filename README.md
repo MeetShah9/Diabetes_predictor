@@ -15,11 +15,6 @@ This web application utilizes the power of machine learning to predict the likel
 - **Diabetes Prediction:** Users can input their health parameters such as glucose level, blood pressure, skin thickness, etc., and the model will predict the likelihood of them having diabetes.
 - **Model Accuracy:** The model has been trained with a high degree of accuracy, achieving an impressive 79% accuracy on the validation dataset.
 
-## Usage
-1. **Input Parameters:** Users can input their health parameters through a user-friendly interface.
-2. **Prediction:** After inputting the parameters, users can click on a button to trigger the prediction process.
-3. **Result Display:** The predicted outcome (whether the user is likely to have diabetes or not) is displayed along with a confidence score.
-
 ## How to Run
 To run the application locally, follow these steps:
 1. Clone the repository containing the code.
